@@ -5,7 +5,7 @@ With this repository, you can visualize quickly any data in a csv format that yo
 First, open type cmd on windows
 
 ```bash
-C:\>git clone https://github.com/alektebel/pca-on-the-command-line/edit/main/
+C:\>git clone https://github.com/alektebel/pca-on-the-command-line.git
 ```
 
 And all the files will be downloaded in the directory you are currently (Ignore the images, you can delete them). You should have already installed some modules, so here is a command to install all them at once.
